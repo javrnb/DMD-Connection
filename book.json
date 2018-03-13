@@ -1,7 +1,5 @@
    {
 	"root": "./docs",
 	"title": "DPD API Connection With DO",
-	"structure": {
-		"readme": "README.md",
-		"summary": "SUMMARY.md"
+	
 	}
