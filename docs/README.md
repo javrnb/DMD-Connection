@@ -1,3 +1,6 @@
-# My Awesome Book
+# DMD API CONNECTION WITH DO
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### **INTRODUCTION**
+
+The main purpose of this document is to show how DMD API is making connection with DO, fetching tokens and ping messages and how the content of the EDI file received from DO are being parsed and its import mechanism to PP.
+
