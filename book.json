@@ -1,7 +1,6 @@
    {
 	"root": "./docs",
-	"title": "DPD API Connection With DO"
-	
+	"title": "DPD API Connection With DO",
 	
 	"styles": {
 		"website": "styles/website.css"
