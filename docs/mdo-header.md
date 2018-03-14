@@ -2,9 +2,15 @@
 
 This program displays contents of MDO Header and its corresponding MDO Line tables.
 
-![](/assets/mdoheader.jpg)
+![MDOheader](./gitbook/images/mdoheader.jpg)
 
 Fig:MDO Header
 
-![](/assets/mdolines.jpg)
+![MDOLine](./gitbook/images/mdolines.jpg)
+
+Fig:MDO Lines
+
+
+
+
 
