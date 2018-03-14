@@ -8,6 +8,8 @@ Import DO SKU Data checks for tokens for supply and sales sku data from the API
 
 -Next it gets the ping response, if ping is unauthorized then it fetches new token but if ping is authorized then it downloads Supply SKU Data and Sales SKU Data from DO API to PF new Linux server **172.17.0.19** with .ssd and .ssd1 extension.
 
+![ImportSku](./gitbook/images/skuimport.jpg)
+
 Fig:Import DO SKU Data
 
 To establish authorized secured connection we need to give App Name and App Key which are username and password. Based on that information we successfully generate token.
