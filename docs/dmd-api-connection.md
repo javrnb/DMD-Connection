@@ -6,9 +6,9 @@ DMD API Connection checks for tokens from the API
 
 -Next it gets the ping response, if ping is unauthorized then it fetches new token but if ping is authorized then it downloads DO Order Proposal Headers from DO API to PF new Linux server **172.17.0.19** with .sgh1 extension.
 
-!\[Local Image\)\(gitbook/images/test.png\)
+![Local Image)(/gitbook/images/test.png)
 
-This is \[an example\]\(www.google.com\).
+This is [an example](www.google.com).
 
 &lt;img src="./gitbook/images/dosku.jpg width="640"&gt;
 
