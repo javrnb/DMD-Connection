@@ -2,7 +2,7 @@
 
 This program displays contents of skudata table.
 
-![](/assets/dosku.jpg)
+![Dosku](./gitbook/images/dosku.jpg)
 
 Fig:DO SKU Data
 
