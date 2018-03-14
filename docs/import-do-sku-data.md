@@ -1,4 +1,4 @@
-### Import DO SKU Data
+## Import DO SKU Data
 
 Import DO SKU Data checks for tokens for supply and sales sku data from the API
 
