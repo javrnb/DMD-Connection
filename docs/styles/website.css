@@ -2,3 +2,5 @@
 border-style: double;
 border-bottom-style: solid;
 }
+h1{border-style: double;}
+h2{border-style: solid;}
