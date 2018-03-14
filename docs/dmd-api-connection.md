@@ -8,6 +8,8 @@ DMD API Connection checks for tokens from the API
 
 !\[Local Image\)\(gitbook/images/test.png\)
 
+This is \[an example\]\(www.google.com\).
+
 &lt;img src="./gitbook/images/dosku.jpg width="640"&gt;
 
 ![](/docs/gitbook/images/dmdapiconn.jpg)
