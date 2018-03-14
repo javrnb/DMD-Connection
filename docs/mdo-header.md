@@ -6,5 +6,5 @@ This program displays contents of MDO Header and its corresponding MDO Line tabl
 
 Fig:MDO Header
 
-![](/assets/mdolines.jpg)Fig:MDO Lines
+![](/assets/mdolines.jpg)
 
