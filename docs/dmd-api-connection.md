@@ -8,7 +8,7 @@ DMD API Connection checks for tokens from the API
 
 !\[Local Image\)\(gitbook/images/dosku.jpg\)
 
-&lt;img src="/gitbook/images/dosku.jpg width="640"&gt;
+&lt;img src="./gitbook/images/dosku.jpg width="640"&gt;
 
 ![](/docs/gitbook/images/dmdapiconn.jpg)
 
