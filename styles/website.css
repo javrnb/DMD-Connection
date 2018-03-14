@@ -1,2 +1,4 @@
-h3 {border-style: double;}
-h3 {border-bottom-style: solid;}
+#do-sku-data {
+border-style: double;
+border-bottom-style: solid;
+}
