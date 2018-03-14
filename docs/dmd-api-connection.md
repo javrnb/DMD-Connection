@@ -1,4 +1,4 @@
-# DMD API CONNECTION:
+## DMD API CONNECTION:
 
 DMD API Connection checks for tokens from the API
 
