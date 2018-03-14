@@ -1,4 +1,4 @@
-### PO from Demand Optimizer
+## PO from Demand Optimizer
 
 This program creates Purchase Order from Demand Optimizer Import. It stores data from mdoheader and mdolines tables to pohead, polines and podelivery tables.
 
