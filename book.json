@@ -4,6 +4,5 @@
 	
 	"styles": {
 		"website": "styles/website.css"
-	},
-	"plugins": ["-fontsettings","theme-official@2.1.1"]
+	}
 }
