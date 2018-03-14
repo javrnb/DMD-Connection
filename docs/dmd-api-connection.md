@@ -11,9 +11,6 @@ DMD API Connection checks for tokens from the API
 This is [an example](www.google.com).
 
 &lt;img src="./gitbook/images/dmdapiconn.jpg""&gt;
-
-![](/docs/gitbook/images/dmdapiconn.jpg)
-
 Fig: DMD API Connection
 
 To establish authorized secure connection we need to give App Name and App Key which are username and password. Based on that information we successfully generate token.
