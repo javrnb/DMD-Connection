@@ -1,6 +1,7 @@
-#do-sku-data {
-border-style: double;
-border-bottom-style: solid;
+h1,h2,h3{
+color:red;
 }
-h1{border-style: double;}
-h2{border-style: solid;}
+
+h4{
+color:blue;
+}
