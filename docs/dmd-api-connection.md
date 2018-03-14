@@ -10,7 +10,7 @@ DMD API Connection checks for tokens from the API
 
 &lt;img src="/gitbook/images/dosku.jpg width="640"/&gt;
 
-![](/assets/dmdapiconn.jpg)
+![](/docs/gitbook/images/dosku.jpg)
 
 Fig: DMD API Connection
 
