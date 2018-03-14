@@ -10,7 +10,7 @@ DMD API Connection checks for tokens from the API
 
 This is [an example](www.google.com).
 
-&lt;img src="./gitbook/images/dosku.jpg width="640"&gt;
+&lt;img src="./gitbook/images/dmdapiconn.jpg""&gt;
 
 ![](/docs/gitbook/images/dmdapiconn.jpg)
 
