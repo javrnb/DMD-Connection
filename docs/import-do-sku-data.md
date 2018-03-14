@@ -6,9 +6,7 @@ Import DO SKU Data checks for tokens for supply and sales sku data from the API
 -If token is already available then it uses the token but if token is not available then it fetches new one.
 ```
 
--Next it gets the ping response, if ping is unauthorized then it fetches new token but if ping is authorized then it downloads Supply SKU Data and Sales SKU Data from DO API to PF new Linux server 172.17.0.19 with .ssd and .ssd1 extension.
-
-
+-Next it gets the ping response, if ping is unauthorized then it fetches new token but if ping is authorized then it downloads Supply SKU Data and Sales SKU Data from DO API to PF new Linux server **172.17.0.19** with .ssd and .ssd1 extension.
 
 Fig:Import DO SKU Data
 
